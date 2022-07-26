@@ -1,5 +1,8 @@
 # Introduction to Micro Frontends
 
+## About this Project
+This project was created to teach the micro frontend design pattern the most effective way, by building! The directory `Tutorial_Docs` contains a step by step detailed break down of how to build a micro frontend project. It begins with day-0 which is the same as the content below. Progress through these documents and learn the underlying tech and code required to build a MFE.
+
 ## What is a Micro Frontend?
 Micro frontends introduce mircoservice development principles to frontend applications.<sup>[1]</sup>  
 Using this architecture, teams can independently build and deploy "child" applications and these will be combined in a "parent" application that acts as a container grouping the applications together into one single usable entity.<sup>[1]</sup>  

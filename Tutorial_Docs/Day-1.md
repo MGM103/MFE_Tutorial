@@ -4,6 +4,8 @@
  
 ## Creating a React Application with a Counter
 
+First create a new directory for the project for example `My_First_MFE` and go ahead and open this directory in VS code.
+
 To create a generic react app enter the following commands below in the terminal:
 
 ```
@@ -123,7 +125,9 @@ Now if you reload the app in your browser you should be able to see the componen
 ***Great work! That is the first app in the books on to the second!***
 
 ## Creating a React Application with a powers of 2 component
-Next we will create the second react application with a component that outputs powers of two. Similarly to the previous section, we will create a react app entering the following commands into the terminal:
+Next we will create the second react application with a component that outputs powers of two. Now you might be wondering why we are building another react application as opposed to adding the component in the existing react app. The purpose behind this is to allow us to later explore the process of consuming multiple components from multiple react apps. This is a bit more complex than just conuming multiple components from the same react app.  
+
+Similarly to the previous section, we will create a react app entering the following commands into the terminal:
 
 ```
 npx create-react-app pow2-app
