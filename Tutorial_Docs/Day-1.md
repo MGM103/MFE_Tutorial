@@ -4,7 +4,7 @@
  
 ## Creating a React Application with a Counter
 
-First create a new directory for the project for example `My_First_MFE` and go ahead and open this directory in VS code.
+First create a new directory for the project, for example `My_First_MFE` and go ahead and open this directory in VS code.
 
 To create a generic react app enter the following commands below in the terminal:
 
